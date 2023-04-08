@@ -1,16 +1,5 @@
 # tretalab
 
-A new Flutter project.
+![prva](https://user-images.githubusercontent.com/84207594/230718736-ba73fbd5-d964-4a10-bf3c-bab413783167.png)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![vtora](https://user-images.githubusercontent.com/84207594/230718796-8254a2d5-11af-4507-be94-6ac8600c610c.png)
